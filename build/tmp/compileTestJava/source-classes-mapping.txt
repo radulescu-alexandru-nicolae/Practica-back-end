@@ -1,0 +1,10 @@
+frizerie/controll/ControlClientTest.java
+ frizerie.controll.ControlClientTest
+frizerie/model/SQLUTILTest.java
+ frizerie.model.SQLUTILTest
+frizerie/model/ProgramareTest.java
+ frizerie.model.ProgramareTest
+frizerie/controll/ControlFrizerTest.java
+ frizerie.controll.ControlFrizerTest
+frizerie/controll/ControlProgramareTest.java
+ frizerie.controll.ControlProgramareTest

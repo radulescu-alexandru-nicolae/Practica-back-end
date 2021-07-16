@@ -1,0 +1,24 @@
+frizerie/model/Client.java
+ frizerie.model.Client
+frizerie/model/Concediu.java
+ frizerie.model.Concediu
+frizerie/model/Programare.java
+ frizerie.model.Programare
+frizerie/controll/ControlProgramare.java
+ frizerie.controll.ControlProgramare
+frizerie/model/SQLUTIL.java
+ frizerie.model.SQLUTIL
+frizerie/model/Frizer.java
+ frizerie.model.Frizer
+frizerie/controll/ControlFrizer.java
+ frizerie.controll.ControlFrizer
+frizerie/Main.java
+ frizerie.Main
+frizerie/model/ComparatorOre.java
+ frizerie.model.ComparatorOre
+frizerie/controll/ControlClient.java
+ frizerie.controll.ControlClient
+frizerie/model/Persoana.java
+ frizerie.model.Persoana
+frizerie/controll/ControlTotal.java
+ frizerie.controll.ControlTotal

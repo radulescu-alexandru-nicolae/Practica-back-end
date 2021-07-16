@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="541418fb-7179-4352-9286-c07db14c0fc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nyn78Gft4EUf649TtQpOZBp9eh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaCodingProblemSolved" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="frizerie.controll" />
+      <recent name="frizerie.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ControlClientTest.adaugareClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frizerie.Main" />
+      <module name="FrizerieBazaDeDate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frizerie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlClientTest.adaugareClient" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;frizerie.controll.ControlClientTest.adaugareClient&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ControlProgramareTest.adaugareProgramare" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;frizerie.controll.ControlProgramareTest.adaugareProgramare&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ControlProgramareTest.deletProgramare" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;frizerie.controll.ControlProgramareTest.deletProgramare&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ControlProgramareTest.returnareProgramare" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;frizerie.controll.ControlProgramareTest.returnareProgramare&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ControlClientTest.adaugareClient" />
+        <item itemvalue="Gradle.ControlProgramareTest.adaugareProgramare" />
+        <item itemvalue="Gradle.ControlProgramareTest.deletProgramare" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.ControlProgramareTest.returnareProgramare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="541418fb-7179-4352-9286-c07db14c0fc1" name="Default Changelist" comment="" />
+      <created>1612371028690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612371028690</updated>
+      <workItem from="1612371030906" duration="3657000" />
+      <workItem from="1612374706577" duration="2923000" />
+      <workItem from="1612476673691" duration="1922000" />
+      <workItem from="1612520129342" duration="3595000" />
+      <workItem from="1612539502036" duration="14202000" />
+      <workItem from="1612617214434" duration="3217000" />
+      <workItem from="1612809314881" duration="9201000" />
+      <workItem from="1612874847717" duration="1604000" />
+      <workItem from="1612879069976" duration="645000" />
+      <workItem from="1612879747437" duration="11180000" />
+      <workItem from="1612989463334" duration="6303000" />
+      <workItem from="1613040690491" duration="4072000" />
+      <workItem from="1613146270592" duration="1906000" />
+      <workItem from="1613153648784" duration="12858000" />
+      <workItem from="1613221802960" duration="2033000" />
+      <workItem from="1613321685480" duration="57000" />
+      <workItem from="1613321974872" duration="5925000" />
+      <workItem from="1613409875754" duration="2785000" />
+      <workItem from="1613482316255" duration="607000" />
+      <workItem from="1613838039030" duration="4669000" />
+      <workItem from="1613855165964" duration="19000" />
+      <workItem from="1613855466652" duration="3254000" />
+      <workItem from="1613909820848" duration="4057000" />
+      <workItem from="1613936967707" duration="3169000" />
+      <workItem from="1613981908391" duration="1196000" />
+      <workItem from="1614018533442" duration="612000" />
+      <workItem from="1614025967502" duration="70000" />
+      <workItem from="1614028815322" duration="132000" />
+      <workItem from="1614029396548" duration="38000" />
+      <workItem from="1614031423621" duration="2904000" />
+      <workItem from="1614069811910" duration="6000" />
+      <workItem from="1615540099168" duration="1143000" />
+      <workItem from="1615571566946" duration="216000" />
+      <workItem from="1615587554694" duration="1394000" />
+      <workItem from="1615631010294" duration="3955000" />
+      <workItem from="1616416245441" duration="7000" />
+      <workItem from="1616449542046" duration="1318000" />
+      <workItem from="1616455205530" duration="2362000" />
+      <workItem from="1616486545475" duration="597000" />
+      <workItem from="1616493139789" duration="793000" />
+      <workItem from="1616495184152" duration="123000" />
+      <workItem from="1616495321009" duration="678000" />
+      <workItem from="1616507549711" duration="1523000" />
+      <workItem from="1616587582881" duration="630000" />
+      <workItem from="1616588470856" duration="1309000" />
+      <workItem from="1616861968570" duration="1020000" />
+      <workItem from="1616951023711" duration="596000" />
+      <workItem from="1616959117204" duration="26000" />
+      <workItem from="1618408850190" duration="81000" />
+      <workItem from="1619271194669" duration="195000" />
+      <workItem from="1619271871666" duration="259000" />
+      <workItem from="1619274686927" duration="262000" />
+      <workItem from="1619777019505" duration="798000" />
+      <workItem from="1620474399579" duration="6185000" />
+      <workItem from="1620500821482" duration="1562000" />
+      <workItem from="1620553512795" duration="8825000" />
+      <workItem from="1620641771581" duration="1720000" />
+      <workItem from="1621781734133" duration="125000" />
+      <workItem from="1621781865583" duration="502000" />
+      <workItem from="1621782523968" duration="895000" />
+      <workItem from="1621783439264" duration="1501000" />
+      <workItem from="1621786531373" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
